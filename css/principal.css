@@ -15,11 +15,10 @@ input {
 main{
     max-width: 900px;
     align-content: center;
-	background-color: #696969;
 }
 
 header{
-    background-color: #FFFFFF;
+    background-color: #696969;
     color: #FFFAFA;
     padding: 20px;
     text-align: center;
