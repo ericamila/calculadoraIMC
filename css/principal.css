@@ -1,0 +1,36 @@
+*{
+    margin: 0 auto;
+    padding: 0 auto;
+    font-family: sans-serif, Helvetica, Arial;
+}
+
+p, label, button {
+    font: 1rem 'Fira Sans', sans-serif;
+}
+
+input {
+    margin: .4rem;
+}
+
+main{
+    max-width: 900px;
+    align-content: center;
+	background-color: #696969;
+}
+
+header{
+    background-color: #FFFFFF;
+    color: #FFFAFA;
+    padding: 20px;
+    text-align: center;
+    border: 1px solid white;
+}
+
+footer{
+    background-color: #696969;
+    color: #FFFAFA;
+    text-align: center;
+    padding: 10px;
+    float: left;
+    width: 100%;
+}
